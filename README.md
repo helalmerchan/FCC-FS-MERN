@@ -1,6 +1,6 @@
-# MERN practice project that used following process
+# MERN-Stack project that used following process and packages
 
-- Chakra ui 
+- chakra-ui 
 - react-icons
 - react-router-dom
 - zustand state managment
